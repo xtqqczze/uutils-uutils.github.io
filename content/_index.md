@@ -39,6 +39,7 @@ C has served us well for decades, but it is time to move on. For new generations
 - **Modern tooling** — Cargo, crates.io and a rich ecosystem mean we don't have to reinvent the wheel
 - **Easy parallelism** — fearless concurrency built into the language
 - **Terrific performance** — on par with or better than C implementations
+- **Modern engineering practices** — excellent CI coverage (build on many OS/archs, GNU test suite execution), a smooth contributor experience, and continuous fuzzing (including differential fuzzing) at the review phase to catch edge cases early
 
 This is not about fighting the GNU project. It is not primarily about security (GNU coreutils only had [17 CVEs since 2003](https://security-tracker.debian.org/tracker/source-package/coreutils)) or about license debates. It is about **modernizing foundational software** so it can be maintained and improved by the next generation of contributors.
 
