@@ -35,7 +35,7 @@ We are planning to replace all essential Linux tools.
 C has served us well for decades, but it is time to move on. For new generations of developers, Rust is more appealing — and it brings real, substantive benefits:
 
 - **Memory safety** — eliminates entire categories of bugs without sacrificing performance
-- **Cross-platform portability** — the same code runs on Linux, macOS, Windows, Android, FreeBSD, NetBSD, OpenBSD, Solaris, Illumos, Fuchsia, Redox and even WebAssembly
+- **Cross-platform portability** — the same code runs on Linux, macOS, Windows, Android, FreeBSD, NetBSD, OpenBSD, Solaris, Illumos, Fuchsia, Redox and even [WebAssembly](/playground)
 - **Modern tooling** — Cargo, crates.io and a rich ecosystem mean we don't have to reinvent the wheel
 - **Easy parallelism** — fearless concurrency built into the language
 - **Terrific performance** — on par with or better than C implementations
