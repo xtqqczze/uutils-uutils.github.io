@@ -205,7 +205,7 @@ uutils coreutils is available in **nixpkgs** as `uutils-coreutils` and
 prefix, as drop-in replacements).
 
 **Links:**
-- [NixOS Wiki: uutils coreutils](https://wiki.nixos.org/wiki/Uutils_coreutils)
+- [NixOS Wiki: Uutils](https://wiki.nixos.org/wiki/Uutils)
 
 ---
 
